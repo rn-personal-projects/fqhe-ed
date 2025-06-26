@@ -1,0 +1,1 @@
+// Empty implementation, assuming wavefunction will be modified to include other geometries.
